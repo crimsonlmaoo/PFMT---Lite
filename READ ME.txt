@@ -1,0 +1,6 @@
+simple LITE version my private i have made. made for copies, not any other external games. 
+
+
+NET 4.8.1 NEEDED. RUNTIME PACK ONLY.
+
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer <--- install net4.8.1
